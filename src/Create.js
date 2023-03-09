@@ -23,7 +23,6 @@ const Create = () => {
             history.push('/');
         })
 
-        
     }
 
     return ( 
